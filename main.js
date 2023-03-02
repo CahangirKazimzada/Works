@@ -1,15 +1,3 @@
-// const allStudentsAge = [19, 22, 18, 19, 16, 18, 19, 21, 24];
-// let target = 19;
-
-// let counter = 0;
-// for (studentAge of allStudentsAge) {
-//   if (studentAge == target) {
-//         counter++;
-//     }
-// };
-
-// console.log(counter);
-
 // let array = [1, 2, 3, 4, 4, 4, 5, 5];
 // n = prompt();
 // let count = 0;
